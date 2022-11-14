@@ -3,6 +3,8 @@ Track: Revamping the Old
 
 - Additional challenges:  Sargent College Hack, Friends for Drew 1, BU Spark
 
+Devpost: https://devpost.com/software/journal-gzkqx5
+
 A new way to visualize journal entries
 
 This project focuses on individual person's wellbeing. This web-app serves as a daily journal for a registered user. It represents a user's mood via images and color.
@@ -41,4 +43,4 @@ python manage.py runserver
 python manage.py makemigrations
 python manage.py migrate
 ```
-Congradulations! You now have a raw version of the app
+Congratulations! You now have a raw version of the app
