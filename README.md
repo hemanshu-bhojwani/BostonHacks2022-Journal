@@ -1,7 +1,6 @@
-# BUHack2022
-Track: Revamping the Old
-
-- Additional challenges:  Sargent College Hack, Friends for Drew 1, BU Spark
+# BostonHacks2022: Journal
+:trophy: 'Revamping the Old' Track  
+:1st_place_medal: 'Jeeva Health App' Sponsor Challenge
 
 Devpost: https://devpost.com/software/journal-gzkqx5
 
